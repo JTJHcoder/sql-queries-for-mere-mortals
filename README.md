@@ -1,30 +1,32 @@
 # SQL Queries for Mere Mortals (3rd Edition) — Exercise Solutions
 
-This repository contains my personal solutions and practice scripts for the exercises in *SQL Queries for Mere Mortals* (3rd Edition) by John Viescas and Michael Hernandez. It serves as a technical portfolio to track my progress and demonstrate core relational database proficiency.
+Personal solutions for the training exercises in *SQL Queries for Mere Mortals* by John Viescas and Michael Hernandez.
 
-## Progress Tracker
+## Book Outline & Progress
 
-### Part II: Relational Databases and SQL
-- [ ] Chapter 4: Creating Simple Queries
-- [ ] Chapter 5: Getting More Than Simple Information
+### Part II: SQL Basics
+- [ ] Chapter 4: Creating a Simple Query
+- [ ] Chapter 5: Getting More Than Simple Columns
 - [ ] Chapter 6: Filtering Your Data
-- [ ] Chapter 7: Thinking in Sets
 
-### Part III: Grouping and Joining Data
+### Part III: Working with Multiple Tables
+- [ ] Chapter 7: Thinking in Sets
 - [ ] Chapter 8: INNER JOINs
 - [ ] Chapter 9: OUTER JOINs
 - [ ] Chapter 10: UNIONs
 - [ ] Chapter 11: Subqueries
 
-## Project Structure
+### Part IV: Summarizing and Grouping Data
+- [ ] Chapter 12: Simple Totals
+- [ ] Chapter 13: Grouping Data
+- [ ] Chapter 14: Filtering Grouped Data
 
-Solutions are organized chronologically by chapter. Each chapter folder contains script files targeting the book's core sample database schemas:
-* Sales Orders
-* Entertainment Agency
-* School Scheduling
-* Bowling League
-* Recipes
+### Part V: Modifying Sets of Data
+- [ ] Chapter 15: Updating Sets of Data
+- [ ] Chapter 16: Inserting Sets of Data
+- [ ] Chapter 17: Deleting Sets of Data
 
-## Environment
-* **Database Engine:** [e.g., PostgreSQL / MySQL / SQL Server]
-* **SQL Client:** [e.g., DBeaver / VS Code / pgAdmin]
+### Part VI: Introduction to Solving Tough Problems
+- [ ] Chapter 18: "NOT" and "AND" Problems
+- [ ] Chapter 19: Condition Testing
+- [ ] Chapter 20: Using Unlinked Data and "Driver" Tables
