@@ -1,40 +1,30 @@
-# 🏆 SQL Queries for Mere Mortals (3rd Edition) — Mastery Portfolio
+# SQL Queries for Mere Mortals (3rd Edition) — Exercise Solutions
 
-Welcome to my personal training ground for relational database querying! This repository tracks my upcoming journey through John Viescas & Michael Hernandez's classic book, *SQL Queries for Mere Mortals*. 
+This repository contains my personal solutions and practice scripts for the exercises in *SQL Queries for Mere Mortals* (3rd Edition) by John Viescas and Michael Hernandez. It serves as a technical portfolio to track my progress and demonstrate core relational database proficiency.
 
-I built this to **prove my foundational SQL skills to future employers** and to document my personal growth as a data professional from day one.
+## Progress Tracker
 
----
+### Part II: Relational Databases and SQL
+- [ ] Chapter 4: Creating Simple Queries
+- [ ] Chapter 5: Getting More Than Simple Information
+- [ ] Chapter 6: Filtering Your Data
+- [ ] Chapter 7: Thinking in Sets
 
-## 📈 Learning Journey & Progress Tracker
-*Total Progress: [░░░░░░░░░░░░░░░░░░░░] 0% Complete*
+### Part III: Grouping and Joining Data
+- [ ] Chapter 8: INNER JOINs
+- [ ] Chapter 9: OUTER JOINs
+- [ ] Chapter 10: UNIONs
+- [ ] Chapter 11: Subqueries
 
-### PART II: Relational Databases and SQL
-- [ ] **Chapter 4:** Creating Simple Queries — *Status: Not Started*
-- [ ] **Chapter 5:** Getting More Than Simple Information — *Status: Not Started*
-- [ ] **Chapter 6:** Filtering Your Data — *Status: Not Started*
-- [ ] **Chapter 7:** Thinking in Sets — *Status: Not Started*
+## Project Structure
 
-### PART III: Grouping and Joining Data
-- [ ] **Chapter 8:** INNER JOINs — *Status: Not Started*
-- [ ] **Chapter 9:** OUTER JOINs — *Status: Not Started*
-- [ ] **Chapter 10:** UNIONs — *Status: Not Started*
-- [ ] **Chapter 11:** Subqueries — *Status: Not Started*
+Solutions are organized chronologically by chapter. Each chapter folder contains script files targeting the book's core sample database schemas:
+* Sales Orders
+* Entertainment Agency
+* School Scheduling
+* Bowling League
+* Recipes
 
----
-
-## 💡 Key Takeaways & "Proud Moments"
-*(This is where I will document breakthroughs that force me to think differently about data as I study.)*
-* **Chapter 4:** *[Waiting to begin...]*
-* **Chapter 5:** *[Waiting to begin...]*
-
----
-
-## 🗄️ The 5 Sample Databases Used
-Every solution in this repo will target one of the five official book schemas:
-1. **Sales Orders:** E-commerce data focusing on customers, vendors, and inventory.
-2. **Entertainment Agency:** Booking data mapping entertainers, agents, and musical styles.
-3. **School Scheduling:** Academic data bridging students, classes, and staff.
-4. **Bowling League:** Sports tracking capturing teams, bowlers, and match scores.
-5. **Recipes:** Culinary data organizing ingredients, measurements, and preparation steps.
-
+## Environment
+* **Database Engine:** [e.g., PostgreSQL / MySQL / SQL Server]
+* **SQL Client:** [e.g., DBeaver / VS Code / pgAdmin]
