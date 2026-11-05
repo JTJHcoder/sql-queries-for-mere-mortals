@@ -1,0 +1,3 @@
+SELECT *
+FROM Teams
+ORDER BY TeamName;
