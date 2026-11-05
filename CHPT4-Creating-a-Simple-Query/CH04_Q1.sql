@@ -2,5 +2,6 @@
 Sales Order Database
 
 */
+
 SELECT *
-FROM Employee
+FROM Employees;
