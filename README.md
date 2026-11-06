@@ -5,7 +5,7 @@ Personal solutions for the training exercises in *SQL Queries for Mere Mortals* 
 ## Book Outline & Progress
 
 ### Part II: SQL Basics
-- [ ] Chapter 4: Creating a Simple Query
+- [X] Chapter 4: Creating a Simple Query
 - [ ] Chapter 5: Getting More Than Simple Columns
 - [ ] Chapter 6: Filtering Your Data
 
