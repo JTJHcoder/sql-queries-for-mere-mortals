@@ -10,7 +10,7 @@ Personal solutions for the training exercises in *SQL Queries for Mere Mortals* 
 - [X] Chapter 6: Filtering Your Data
 
 ### Part III: Working with Multiple Tables
-- [ ] Chapter 7: Thinking in Sets
+- [X] Chapter 7: Thinking in Sets
 - [ ] Chapter 8: INNER JOINs
 - [ ] Chapter 9: OUTER JOINs
 - [ ] Chapter 10: UNIONs
