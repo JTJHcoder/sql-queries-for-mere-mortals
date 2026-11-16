@@ -11,7 +11,7 @@ Personal solutions for the training exercises in *SQL Queries for Mere Mortals* 
 
 ### Part III: Working with Multiple Tables
 - [X] Chapter 7: Thinking in Sets
-- [ ] Chapter 8: INNER JOINs
+- [X] Chapter 8: INNER JOINs
 - [ ] Chapter 9: OUTER JOINs
 - [ ] Chapter 10: UNIONs
 - [ ] Chapter 11: Subqueries
