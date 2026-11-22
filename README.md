@@ -13,7 +13,7 @@ Personal solutions for the training exercises in *SQL Queries for Mere Mortals* 
 - [X] Chapter 7: Thinking in Sets
 - [X] Chapter 8: INNER JOINs
 - [X] Chapter 9: OUTER JOINs
-- [ ] Chapter 10: UNIONs
+- [X] Chapter 10: UNIONs
 - [ ] Chapter 11: Subqueries
 
 ### Part IV: Summarizing and Grouping Data
