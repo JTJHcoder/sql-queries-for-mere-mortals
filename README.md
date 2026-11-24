@@ -14,7 +14,7 @@ Personal solutions for the training exercises in *SQL Queries for Mere Mortals* 
 - [X] Chapter 8: INNER JOINs
 - [X] Chapter 9: OUTER JOINs
 - [X] Chapter 10: UNIONs
-- [ ] Chapter 11: Subqueries
+- [X] Chapter 11: Subqueries
 
 ### Part IV: Summarizing and Grouping Data
 - [ ] Chapter 12: Simple Totals
